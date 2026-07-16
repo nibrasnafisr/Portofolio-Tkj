@@ -4,7 +4,7 @@ Selamat datang di repositori dokumentasi proyek praktikum administrasi sistem da
 
 ---
 
-## 🚀 Proyek 1: Deploy Aplikasi Web dan Integrasi Database Server via Linux
+##  Proyek 1: Deploy Aplikasi Web dan Integrasi Database Server via Linux
 
 * **Peran:** System Administrator / DevOps Junior
 * **Tools:** Linux Server, MariaDB (MySQL), Web Server
@@ -27,7 +27,7 @@ Berikut adalah tampilan antarmuka aplikasi "Planly" dan isi tabel database Maria
 
 ---
 
-## 🚀 Proyek 2: Integrasi Server Multi-Platform (Linux & Windows Server) untuk Layanan Web
+##  Proyek 2: Integrasi Server Multi-Platform (Linux & Windows Server) untuk Layanan Web
 
 * **Peran:** Network & System Administrator Junior
 * **Tools:** Linux Server, Windows Server 2022, Active Directory, DNS Server
